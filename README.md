@@ -2,4 +2,3 @@
 
 Ini senarai yang hadir!
 - @alserembani94
-- random
